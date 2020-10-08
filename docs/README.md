@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/index-read.gif
 heroText: 江南倒爷
-tagline: 倒买倒卖的人
+tagline: 买卖买卖，买冬卖西。
 actionText: 了解倒爷 →
 actionLink: /guide/
 features:
