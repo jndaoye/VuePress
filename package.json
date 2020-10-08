@@ -1,0 +1,16 @@
+{
+  "name": "VuePress",
+  "version": "1.0.0",
+  "description": "A blog",
+  "main": "index.js",
+  "repository": "git@github.com:jndaoye/VuePress.git",
+  "author": "jndaoye <wuaikx@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  }
+}
